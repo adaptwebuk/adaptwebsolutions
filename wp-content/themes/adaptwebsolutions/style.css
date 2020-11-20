@@ -1,0 +1,19 @@
+/*
+Theme Name: Adapt Web Solutions
+Author: Josh Finney
+Description: WordPress theme for Adapt Web Solutions
+Version: 0.0.1
+Tags: WordPress, Website Development
+*/
+
+/*
+ * Main Stylesheet.
+ *
+ * This should only contain includes of other files from the following folders:
+ *
+ * Base - configuration files, such as variables, mixins and font-faces.
+ * Global - Site wide elements, such as forms, buttons, text.
+ * Components - Specific sections, such as 'gallery' and 'upcoming events'.
+ * Vendor - any 3rd party CSS files.
+ *
+ */
